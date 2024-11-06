@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Traffix/static/css/main.b36be4c2.css",
+    "main.js": "/Traffix/static/js/main.3a267756.js",
+    "static/js/453.2c337376.chunk.js": "/Traffix/static/js/453.2c337376.chunk.js",
+    "index.html": "/Traffix/index.html",
+    "main.b36be4c2.css.map": "/Traffix/static/css/main.b36be4c2.css.map",
+    "main.3a267756.js.map": "/Traffix/static/js/main.3a267756.js.map",
+    "453.2c337376.chunk.js.map": "/Traffix/static/js/453.2c337376.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b36be4c2.css",
+    "static/js/main.3a267756.js"
+  ]
+}
