@@ -1,5 +1,5 @@
-
-<img width="1436" alt="Screenshot 2024-11-06 at 9 56 03 AM" src="https://github.com/user-attachments/assets/0d1b64ef-fbed-4ea5-947a-36562667f9d3">
+<img width="749" alt="Screenshot 2024-11-06 at 10 02 00 AM" src="https://github.com/user-attachments/assets/86ac3f9d-3993-4aa3-a47c-1f0db9724140">
+<img width="1436" alt="Screenshot 2024-11-06 at 9 56 03 AM" src="https://github.com/user-attachments/assets/850df9bb-8df5-4299-874d-34fac34dadb1">
 # Traffix - Road Safety Reporting DApp
 
 ## Overview
@@ -25,24 +25,27 @@
 
 ### 1. Connect Wallet
 Users begin by connecting their Metamask wallet.
-![Connect Wallet]
-<img width="681" alt="Screenshot 2024-11-06 at 9 56 24 AM" src="https://github.com/user-attachments/assets/8fd79218-ebe2-4d44-8e77-6ee35beab23e">
+[Connect Wallet]
+<img width="681" alt="Screenshot 2024-11-06 at 9 56 24 AM" src="https://github.com/user-attachments/assets/c9f7e691-b0d2-4845-be90-30b4f1b65b31">
+
 
 
 ### 2. Capture Image
 Users capture images directly from their webcam.
 ![Capture Image]
-<img width="749" alt="Screenshot 2024-11-06 at 10 02 00 AM" src="https://github.com/user-attachments/assets/19419cd0-2c5d-43b2-b6c1-30af7d7129b9">
+<img width="749" alt="Screenshot 2024-11-06 at 10 02 00 AM" src="https://github.com/user-attachments/assets/06fb3d49-84bb-45c7-b100-3d0e7bb97344">
 
 ### 3. Add Details
 Users fill out location, description, and other details.
 ![Add Details]
-<img width="749" alt="Screenshot 2024-11-06 at 10 02 19 AM" src="https://github.com/user-attachments/assets/efa6a6be-1e5d-40b8-bf0d-6333ff7d1757">
+<img width="749" alt="Screenshot 2024-11-06 at 10 02 19 AM" src="https://github.com/user-attachments/assets/77130602-bb04-40d1-a124-e68597c4f5bb">
+
 
 ### 4. Submit Report
 The report is securely submitted to the blockchain.
 ![Submit Report]
-<img width="749" alt="Screenshot 2024-11-06 at 9 57 29 AM" src="https://github.com/user-attachments/assets/384b8d1e-072f-4489-98a1-756809236b10">
+<img width="749" alt="Screenshot 2024-11-06 at 9 57 29 AM" src="https://github.com/user-attachments/assets/db47f262-3989-4fc5-a50f-20a9a159e094">
+
 ---
 
 ## Getting Started
