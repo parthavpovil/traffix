@@ -1,4 +1,3 @@
-<img width="749" alt="Screenshot 2024-11-06 at 10 02 00 AM" src="https://github.com/user-attachments/assets/86ac3f9d-3993-4aa3-a47c-1f0db9724140">
 <img width="1436" alt="Screenshot 2024-11-06 at 9 56 03 AM" src="https://github.com/user-attachments/assets/850df9bb-8df5-4299-874d-34fac34dadb1">
 # Traffix - Road Safety Reporting DApp
 
